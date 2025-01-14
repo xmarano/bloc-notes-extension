@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Bloc-notes",
-    "version": "1.0",
+    "version": "1.0.0",
     "description": "A quick, easy-to-access notepad in your browser.",
     "action": {
         "default_popup": "index.html",
@@ -13,4 +13,3 @@
     },
     "permissions": ["storage"]
 }
-  
